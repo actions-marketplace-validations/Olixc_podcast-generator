@@ -1,5 +1,5 @@
 name: "Podcast Generator"
-author: "Olix"
+author: "Olixc"
 description: "Generates feed for a podcast from a YAML file"
 runs:
   using: "docker"
