@@ -5,8 +5,8 @@ runs:
   using: "docker"
   image: "Dockerfile"
 branding:
-  icon: "get-branch"
-  color: "arrow-up-left"
+  icon: "arrow-up-left"
+  color: "red"
 inputs:
   email:
     description: "The committer's email address"
